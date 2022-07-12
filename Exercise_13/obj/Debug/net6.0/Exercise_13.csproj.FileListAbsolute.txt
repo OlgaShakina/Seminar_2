@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Seminar_02/Exercise_13/bin/Debug/net6.0/Exercise_13
+/Users/admin/Desktop/Seminar_02/Exercise_13/bin/Debug/net6.0/Exercise_13.deps.json
+/Users/admin/Desktop/Seminar_02/Exercise_13/bin/Debug/net6.0/Exercise_13.runtimeconfig.json
+/Users/admin/Desktop/Seminar_02/Exercise_13/bin/Debug/net6.0/Exercise_13.dll
+/Users/admin/Desktop/Seminar_02/Exercise_13/bin/Debug/net6.0/Exercise_13.pdb
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/Exercise_13.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/Exercise_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/Exercise_13.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/Exercise_13.AssemblyInfo.cs
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/Exercise_13.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/Exercise_13.dll
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/refint/Exercise_13.dll
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/Exercise_13.pdb
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/Exercise_13.genruntimeconfig.cache
+/Users/admin/Desktop/Seminar_02/Exercise_13/obj/Debug/net6.0/ref/Exercise_13.dll
